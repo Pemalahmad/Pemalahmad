@@ -2,7 +2,10 @@
 
 **Strategy & Operations leader.** I've spent 10 years running Tesla's commercial sales, service, charging and network development across 10 markets in EMEA and Asia. That covers launching new markets from zero, turning around underperforming ones, and building the AI and analytics layer that lets leadership decide faster.
 
-📍 Dubai, UAE · 🌐 Arabic / English · 🎓 B.Sc. Civil (Structural) Engineering · 📜 PMP
+📍 Dubai, UAE
+🌐 Arabic / English
+🎓 B.Sc. Civil (Structural) Engineering
+📜 PMP
 
 ---
 
