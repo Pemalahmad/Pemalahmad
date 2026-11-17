@@ -37,10 +37,10 @@
 
 ## Featured project
 
-### [Fleet & Service Operations KPI Dashboard →](https://github.com/Pemalahmad/fleet-ops-kpi-dashboard)
-A SQL-first warehouse and live dashboard for a fictional 6,500-vehicle EV fleet across the GCC and Türkiye. It flags the service center that needs intervention this week, tracks recall completion for the regulator, and scores every market against target. Built on DuckDB and Streamlit, with 12 automated data-quality checks.
+### [fleetkpi: plug-and-play fleet operations KPIs →](https://github.com/Pemalahmad/fleet-ops-kpi-dashboard)
+Drop in any fleet's own exports (electric, hybrid or combustion) and get a validated SQL warehouse and a gamified operations cockpit: missions and RAG scorecards, a service-network leaderboard with tiers and badges, cost per km and CO₂ by powertrain, the full data pipeline with lineage, and the SOPs behind every flag. DuckDB, Streamlit, Docker, CI, 11 tests.
 
-[![Service network heatmap](https://raw.githubusercontent.com/Pemalahmad/fleet-ops-kpi-dashboard/main/docs/service-network-heatmap.jpg)](https://github.com/Pemalahmad/fleet-ops-kpi-dashboard)
+[![fleetkpi Command Center](https://raw.githubusercontent.com/Pemalahmad/fleet-ops-kpi-dashboard/main/docs/command-center.jpg)](https://github.com/Pemalahmad/fleet-ops-kpi-dashboard)
 
 ---
 
