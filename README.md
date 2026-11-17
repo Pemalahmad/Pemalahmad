@@ -38,9 +38,9 @@
 ## Featured project
 
 ### [fleetkpi: plug-and-play fleet operations KPIs →](https://github.com/Pemalahmad/fleet-ops-kpi-dashboard)
-Drop in any fleet's own exports (electric, hybrid or combustion) and get a validated SQL warehouse and a gamified operations cockpit: missions and RAG scorecards, a service-network leaderboard with tiers and badges, cost per km and CO₂ by powertrain, the full data pipeline with lineage, and the SOPs behind every flag. DuckDB, Streamlit, Docker, CI, 11 tests.
+Drop in any fleet's own exports (electric, hybrid or combustion) and get a tested SQL warehouse and a live, gamified operations cockpit in light and dark. It covers CSAT and 1-2★ ratings, key-to-key, days of backlog, technician productivity, time in service, depreciation and book value, registration and insurance status, and cost per km by powertrain, with an SOP behind every flag. A dbt-style pipeline runs 41 SQL models across staging, intermediate and marts, with 24 validation rules and 15 SQL data tests, on DuckDB, Streamlit and Docker.
 
-[![fleetkpi Command Center](https://raw.githubusercontent.com/Pemalahmad/fleet-ops-kpi-dashboard/main/docs/command-center.jpg)](https://github.com/Pemalahmad/fleet-ops-kpi-dashboard)
+[![fleetkpi Overview](https://raw.githubusercontent.com/Pemalahmad/fleet-ops-kpi-dashboard/main/docs/overview-light.jpg)](https://github.com/Pemalahmad/fleet-ops-kpi-dashboard)
 
 ---
 
