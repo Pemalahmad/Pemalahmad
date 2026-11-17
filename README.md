@@ -37,10 +37,10 @@
 
 ## Featured project
 
-### [fleetkpi: plug-and-play fleet operations KPIs →](https://github.com/Pemalahmad/fleet-ops-kpi-dashboard)
-Drop in any fleet's own exports (electric, hybrid or combustion) and get a tested SQL warehouse and a live, gamified operations cockpit in light and dark. It covers CSAT and 1-2★ ratings, key-to-key, days of backlog, technician productivity, time in service, depreciation and book value, registration and insurance status, and cost per km by powertrain, with an SOP behind every flag. A dbt-style pipeline runs 41 SQL models across staging, intermediate and marts, with 24 validation rules and 15 SQL data tests, on DuckDB, Streamlit and Docker.
+### [FleetOps KPI: fleet operations as one system of equations →](https://github.com/Pemalahmad/FleetOps-KPI-Dashboard) · [live dashboard ▶](https://pemalahmad.github.io/FleetOps-KPI-Dashboard/)
+Every fleet KPI connected in one network, built on my **Three Clocks Doctrine**: exact identities (off-road hours = visits × hours per visit = workshop + pick-up + back to operations) and measured drivers (multiple regression with standard errors, p-values and confidence intervals), a what-if simulator, and job-level evidence (logistic regression, risk ratios, Welch tests). Repeat repairs, time to pick up, back to operations, parts ETA, fines, goodwill and service spend sit beside CSAT, key-to-key, backlog, productivity, depreciation and compliance. A tested dbt-style SQL pipeline (56 models, 34 validation rules, 22 data tests) runs **in the browser** on DuckDB-WASM, on the demo fleet or on anyone's own files; built in TypeScript / Next.js, with a Python CLI.
 
-[![fleetkpi Overview](https://raw.githubusercontent.com/Pemalahmad/fleet-ops-kpi-dashboard/main/docs/overview-light.jpg)](https://github.com/Pemalahmad/fleet-ops-kpi-dashboard)
+[![FleetOps KPI metric network](https://raw.githubusercontent.com/Pemalahmad/FleetOps-KPI-Dashboard/main/docs/web-metric-network.jpg)](https://pemalahmad.github.io/FleetOps-KPI-Dashboard/network/)
 
 ---
 
