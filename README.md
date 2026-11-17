@@ -35,6 +35,15 @@
 
 ---
 
+## Featured project
+
+### [Fleet & Service Operations KPI Dashboard →](https://github.com/Pemalahmad/fleet-ops-kpi-dashboard)
+A SQL-first warehouse and live dashboard for a fictional 6,500-vehicle EV fleet across the GCC and Türkiye. It flags the service center that needs intervention this week, tracks recall completion for the regulator, and scores every market against target. Built on DuckDB and Streamlit, with 12 automated data-quality checks.
+
+[![Service network heatmap](https://raw.githubusercontent.com/Pemalahmad/fleet-ops-kpi-dashboard/main/docs/service-network-heatmap.jpg)](https://github.com/Pemalahmad/fleet-ops-kpi-dashboard)
+
+---
+
 ## Data, SQL & AI: the decision layer
 
 At Tesla I built the operations-analytics capability from the ground up: an **enterprise data warehouse (EDW) on SQL**, the KPI models on top of it, and the live dashboards that gave the C-suite **one source of truth** across 10 markets. It replaced manual consolidation with automated reporting.
