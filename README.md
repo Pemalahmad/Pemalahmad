@@ -2,7 +2,7 @@
 
 # Mohammad Alahmad
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=6366F1&center=true&vCenter=true&width=640&lines=strategy+%26+ops+main+character+%F0%9F%8E%AF;scaled+10+%E2%86%92+950%2B+locations%2C+no+cap;SQL+that+tells+managers+where+to+act;two+market+launches.+we+ate.)](https://linkedin.com/in/pemalahmad)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=6366F1&center=true&vCenter=true&width=640&lines=strategy+%26+ops+main+character+%F0%9F%8E%AF;scaled+10+%E2%86%92+950%2B+locations%2C+no+cap;SQL+that+tells+managers+where+to+act;seven+market+launches.+we+ate.)](https://linkedin.com/in/pemalahmad)
 
 **Strategy & Operations lead who understood the assignment.**<br>
 10 years across the GCC and EMEA: market research → engineering delivery → regional ops leadership.<br>
@@ -36,7 +36,8 @@ At Tesla I run strategy & ops for GCC and south EMEA: market entry, network scal
 │  service productivity     ~30% uplift   (analytics-led turnarounds)  │
 │  operating spend          ~20% lower  ·  up to $40M saved a year     │
 │  regional P&L remit       ~$300M quarterly revenue                   │
-│  market launches          2  ·  Saudi Arabia + Qatar, case → keys    │
+│  market launches          7  ·  UAE, KSA, Qatar, Oman, Jordan,       │
+│                                 Morocco, Turkey  ·  case → keys      │
 │  peak org                 up to 3,500 people, via country managers   │
 └──────────────────────────────────────────────────────────────────────┘
 ```
@@ -134,8 +135,8 @@ Same pattern behind the turnaround work: baseline, drift, and an explicit interv
 - **Developed leaders.** Hired, trained and led country and functional managers, connecting workforce plans, targets and resource allocation to regional priorities.
 - **Turkey footprint:** 90,000-vehicle fleet · 6 stores · 9 service centers · 24 Supercharging stations.
 
-### 2 · Market entry: Tesla Saudi Arabia & Qatar
-**Launched two markets: 5,000 and 4,000 vehicles delivered in their opening quarters. We ate and left no crumbs.**
+### 2 · Market entry: seven Tesla markets
+**Launched seven markets: UAE, Saudi Arabia, Qatar, Oman, Jordan, Morocco and Turkey. Saudi Arabia and Qatar alone delivered 5,000 and 4,000 vehicles in their opening quarters. We ate and left no crumbs.**
 
 `Business case` → `Readiness` → `Mobilization` → `Delivery`
 
